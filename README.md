@@ -1,4 +1,4 @@
-### Hi! I'm Alejandro Pujante.
+## Hi! 👋 I'm Alejandro Pujante.
 
 - 📍 Spain 
 - 📩 pujante66@gmail.com

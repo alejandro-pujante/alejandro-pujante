@@ -12,7 +12,7 @@
 ## 👦🏻​ Description
 I'm a Physics graduate by University of Murcia (Spain), passionate about environmental impact and computational physics, specializing in pollutant dispersion modeling and data analysis. Sharing insights from both professional pollutant propagation projects and personal explorations in my GitHub repository. 
 
-# 💻 Languages:
+## 💻 Languages:
 
 [<img src="https://img.shields.io/badge/-Python-%233776AB.svg?logo=python&logoColor=yellow" width="100">](https://www.python.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,7 +21,7 @@ I'm a Physics graduate by University of Murcia (Spain), passionate about environ
 [<img src="https://img.shields.io/badge/Fortran-734f96?logo=fortran&style=flat" width="106">](https://www.r-project.org/)
 
 
-# 💾 Databases:
+## 💾 Databases:
 
 [<img src="https://img.shields.io/badge/-MySQL-%23276DC3.svg?logo=MySQL&logoColor=white" width="100">](https://www.r-project.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;

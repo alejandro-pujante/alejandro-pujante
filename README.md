@@ -2,7 +2,7 @@
 
 ## 🌐 Social:
 
-- 📍 Spain 
+- 📌 Spain 
 
 - [![Email](https://img.shields.io/badge/pujante66@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tu_correo_pujante66@gmail.com)
 

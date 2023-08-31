@@ -4,7 +4,7 @@
 
 - 📍 Spain 
 
-- [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tu_correo_pujante66@gmail.com)
+- [![Email](https://img.shields.io/badge/pujante66@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tu_correo_pujante66@gmail.com)
 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pujante-p%C3%A9rez-a2778b230/)

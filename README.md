@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Alejandro Pujante.
 
-## 🌐 Socials:
+## 🌐 Social:
 
 - 📍 Spain 
 

@@ -16,9 +16,9 @@ I'm a Physics graduate by University of Murcia (Spain), passionate about environ
 
 [<img src="https://img.shields.io/badge/-Python-%233776AB.svg?logo=python&logoColor=yellow" width="100">](https://www.python.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/-R-%23276DC3.svg?logo=r&logoColor=white" width="65">](https://www.r-project.org/)
+[<img src="https://img.shields.io/badge/-R-%23276DC3.svg?logo=r&logoColor=white" width="53">](https://www.r-project.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Fortran-734f96?logo=fortran&style=flat" width="106">](https://www.r-project.org/)
+[<img src="https://img.shields.io/badge/Fortran-734f96?logo=fortran&style=flat" width="104">](https://www.r-project.org/)
 
 
 ## 💾 Databases:

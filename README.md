@@ -10,7 +10,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-pujante-p%C3%A9rez-a2778b230/)
 
 ## 👦🏻​ Description
-I'm a Physics graduate by University of Murcia (Spain), passionate about environmental impact and computational physics, specializing in pollutant dispersion modeling and data analysis. Sharing insights from both professional and projects in my GitHub repository. 
+I'm a Physics graduate by University of Murcia (Spain), passionate about environmental impact and computational physics, specializing in pollutant dispersion modeling and weather forecast models. Sharing insights from both professional and projects in my GitHub repository. 
 
 ## 💻 Languages:
 
